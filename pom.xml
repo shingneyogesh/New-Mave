@@ -8,23 +8,13 @@
   <artifactId>NewMaven1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>NewMaven1</name>
-  <description>A simple Maven project for App.java</description>
-  
+  <description>A simple Maven project to print Hello, World!</description>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
-
-  <dependencies>
-    <!-- Add dependencies here if required -->
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
 
   <build>
     <plugins>
